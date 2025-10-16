@@ -27,7 +27,8 @@
 
 ## 🖥️ Visualização
 
-<img width="956" height="902" alt="image" src="https://github.com/user-attachments/assets/fd89e585-665b-424a-bb1a-045d0858fc01" />
+<img width="956" height="895" alt="image" src="https://github.com/user-attachments/assets/10260324-22e5-401d-9b88-530a44bde343" />
+
 
 
 ---
